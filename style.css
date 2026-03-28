@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: rgb(68, 68, 255);
+    font: normal 15pt Arial, Helvetica, sans-serif;
+}
+
+header {
+    color: rgb(229, 229, 229);
+    text-align: center;
+}
+
+section {
+    background-color: rgb(234, 234, 234);
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 20px black;
+    margin-bottom: 10px;
+}
+
+div {
+    text-align: center;
+    margin: 10pt;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
